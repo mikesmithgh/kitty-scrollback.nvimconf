@@ -112,6 +112,19 @@ or `show_scrollback` features, you can use the
 
 ---
 <!-- f3 for ./assets/scrollback-buffer-surprised-cat.jpeg -->
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+#####
+##### https://sw.kovidgoyal.net/kitty/overview/#the-scrollback-buffer
+##### 
 ---
 # scrollback_pager + less
 <!-- f1 clear -->
