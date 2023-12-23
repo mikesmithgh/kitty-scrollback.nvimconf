@@ -1,11 +1,6 @@
 # ⚡️ Neovim Conf 2023: Developing [kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim)
-<a href="https://neovimconf.live/speakers/mikesmith">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mikesmithgh/mikesmithgh/assets/10135646/2e356e56-611b-4353-adbf-31dfa9e7dd8f">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mikesmithgh/mikesmithgh/assets/10135646/2e356e56-611b-4353-adbf-31dfa9e7dd8f">
-    <img alt="mike at nvimconf" src="https://github.com/mikesmithgh/mikesmithgh/assets/10135646/2e356e56-611b-4353-adbf-31dfa9e7dd8f">
-  </picture>
-</a>
+
+[![Developing kitty-scrollback.nvim NeovimConf 2023](assets/neovimconf-thumbnail-play-overlay.png)](https://www.youtube.com/watch?v=9TINe0J9rNg)
 
 ## Generate ASCII art
 ```sh
